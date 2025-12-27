@@ -28,7 +28,7 @@ It is structured using maintainable patterns:
 
 ## Features
 
-<p align="center">
+<div align="center">
 
 | Feature | Details |
 |---|---|
@@ -42,8 +42,8 @@ It is structured using maintainable patterns:
 | Clean Architecture | Controllers + Services + Repositories separation |
 | REST API | Structured JSON API endpoints for frontend usage |
 
-</p>
----
+</div>
+
 
 ## Dashboard Screenshots
 
