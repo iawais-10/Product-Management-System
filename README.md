@@ -48,17 +48,25 @@ It is structured using maintainable patterns:
   <img src="./dashboard.png" alt="Product Management System Dashboard" width="100%" />
 </p>
 
+---
+
 <p align="center">
   <img src="./products.png" alt="Product Management System Hero" width="100%" />
 </p>
+
+---
 
 <p align="center">
   <img src="./categories.png" alt="Product Management System Hero" width="100%" />
 </p>
 
+---
+
 <p align="center">
   <img src="./suppliers.png" alt="Product Management System Hero" width="100%" />
 </p>
+
+---
 
 <p align="center">
   <img src="./sales.png" alt="Product Management System Hero" width="100%" />
