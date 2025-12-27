@@ -136,3 +136,12 @@ FlaskProjectSCD/
         ├── products.html
         ├── sales.html
         └── suppliers.html
+```
+
+---
+
+## LICENSE (MIT) (create a file named `LICENSE`)
+
+```txt
+MIT License
+```
