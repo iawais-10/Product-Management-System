@@ -28,6 +28,8 @@ It is structured using maintainable patterns:
 
 ## Features
 
+<p align="center">
+
 | Feature | Details |
 |---|---|
 | Firebase Authentication | Secure login/register using Firebase tokens |
@@ -40,6 +42,7 @@ It is structured using maintainable patterns:
 | Clean Architecture | Controllers + Services + Repositories separation |
 | REST API | Structured JSON API endpoints for frontend usage |
 
+</p>
 ---
 
 ## Dashboard Screenshots
